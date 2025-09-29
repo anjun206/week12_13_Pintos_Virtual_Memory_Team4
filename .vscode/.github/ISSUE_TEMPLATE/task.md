@@ -1,6 +1,6 @@
 ---
 name: Task
-about: 각자의 업무를 할당할 떄 사용하는 템플릿
+about: ㅅ
 title: '[TASK] '
 labels: ['task']
 assignees: ''
